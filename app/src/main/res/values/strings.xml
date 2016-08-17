@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prime No Checker</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="next">Next</string>
+    <string name="nextQ">Next</string>
+</resources>
